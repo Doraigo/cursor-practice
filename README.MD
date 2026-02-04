@@ -1,0 +1,1 @@
+Initializing my practice with cursor IDE
